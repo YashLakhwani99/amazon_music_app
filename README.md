@@ -1,4 +1,4 @@
-# spotify
+# Amazon Music
 
 A new Flutter project.
 
