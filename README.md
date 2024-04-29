@@ -4,16 +4,12 @@ A Flutter-based clone of Amazon Music, powered by the Apple Music API to access 
 
 ## Features
 
-Highlight the key features of your Amazon Music clone:
-
 - Splash screen with app branding
 - Search for songs, albums, and artists
 - Play, pause, and control music playback
 - Responsive UI for different screen sizes
 
 ## Technologies Used
-
-List the technologies, frameworks, and libraries used in your project:
 
 - Flutter
 - Dart
